@@ -14,5 +14,5 @@ class Books(object):
 
 book1 = Books("You Can Win", "Shiv Khera")
 print book1.get_book_details()
-book1.set_book_details("New Book", "Author yet not decided")
+book1.set_book_details("My Book", "Author yet not decided")
 print book1.get_book_details()
